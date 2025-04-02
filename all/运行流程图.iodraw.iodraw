@@ -124,8 +124,8 @@
         <mxCell id="PVpXRh7X84uExo6OHK-_-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;——知识蒸馏+量化&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="769" y="420" width="218" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PVpXRh7X84uExo6OHK-_-49" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;——增量学习（LSTM+强化学习）&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="769" y="450" width="218" height="30" as="geometry" />
+        <mxCell id="PVpXRh7X84uExo6OHK-_-49" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;——ARM/NPU适配优化&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="771" y="450" width="218" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
