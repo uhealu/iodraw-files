@@ -31,8 +31,8 @@
         <mxCell id="PVpXRh7X84uExo6OHK-_-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="PVpXRh7X84uExo6OHK-_-14" value="嵌入式设备分析" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="PVpXRh7X84uExo6OHK-_-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;嵌入式设备分析&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274" y="300" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
