@@ -119,7 +119,10 @@
           <mxGeometry x="760" y="290" width="218" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVpXRh7X84uExo6OHK-_-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;——生成优化模型权重&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="761" y="320" width="218" height="30" as="geometry" />
+          <mxGeometry x="720" y="320" width="218" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpXRh7X84uExo6OHK-_-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="270" width="310" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
