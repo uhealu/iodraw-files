@@ -11,10 +11,10 @@
           <mxGeometry x="70" y="40" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PVpXRh7X84uExo6OHK-_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="190" width="110" height="50" as="geometry" />
+          <mxGeometry x="40" y="170" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PVpXRh7X84uExo6OHK-_-5" value="模块化独立运行" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="190" width="110" height="50" as="geometry" />
+        <mxCell id="PVpXRh7X84uExo6OHK-_-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模块化独立运行&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
