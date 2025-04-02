@@ -70,6 +70,9 @@
         <mxCell id="PVpXRh7X84uExo6OHK-_-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="334.5" y="52.5" width="16" height="455" as="geometry" />
         </mxCell>
+        <mxCell id="PVpXRh7X84uExo6OHK-_-31" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
