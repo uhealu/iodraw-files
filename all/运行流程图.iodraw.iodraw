@@ -127,6 +127,12 @@
         <mxCell id="PVpXRh7X84uExo6OHK-_-49" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;——ARM/NPU适配优化&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="771" y="450" width="218" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PVpXRh7X84uExo6OHK-_-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="PVpXRh7X84uExo6OHK-_-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="sourcePoint" />
+            <mxPoint x="470" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
