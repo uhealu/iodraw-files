@@ -14,7 +14,7 @@
           <mxGeometry x="240" y="200" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PVpXRh7X84uExo6OHK-_-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模块化独立运行&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="244" y="200" width="200" height="70" as="geometry" />
+          <mxGeometry x="240" y="200" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PVpXRh7X84uExo6OHK-_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="200" height="150" as="geometry" />
@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVpXRh7X84uExo6OHK-_-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PVpXRh7X84uExo6OHK-_-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-92;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
