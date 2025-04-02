@@ -52,8 +52,11 @@
         <mxCell id="PVpXRh7X84uExo6OHK-_-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;——记录结构化日志（时间/位置/行为类型）&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PVpXRh7X84uExo6OHK-_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.068;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PVpXRh7X84uExo6OHK-_-7" target="PVpXRh7X84uExo6OHK-_-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PVpXRh7X84uExo6OHK-_-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
